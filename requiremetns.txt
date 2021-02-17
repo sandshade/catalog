@@ -1,0 +1,4 @@
+djangorestframework
+markdown 
+python-decouple
+django-filter
